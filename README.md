@@ -1,2 +1,1 @@
-# LOL-SHOP
-E-Commerce Website
+# Responsive Ecommerce Website
